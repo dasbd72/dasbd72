@@ -7,6 +7,10 @@
   <samp>
     Computer Science student at National Tsing Hua University
     <br />
+    Instructor: Prof. Jerry Chou
+    <br />
+    Lab: LSALAB
+    <br />
     Email: twbd723@gmail.com
     <br />
   </samp>
